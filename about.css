@@ -25,9 +25,9 @@
   width: 606px;
   height: auto;
   position: absolute;
-  font-size: 67px;
+  font-size: 30px;
   font-style: Bold;
-  text-align: center;
+  text-align: left;
   font-family: 'Roboto Mono', monospace;
   font-weight: 700;
   line-height: 77px;
@@ -139,7 +139,7 @@
 .desktop1-text13 {
   top: 86px;
   left: 974px;
-  color: rgba(0, 0, 0, 1);
+  color: rgba(127, 0, 255, 1);
   height: auto;
   position: absolute;
   font-size: 24px;
@@ -169,7 +169,7 @@
 .desktop1-text17 {
   top: 85px;
   left: 808px;
-  color: rgba(127, 0, 255, 1);
+  color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
   font-size: 24px;
@@ -182,10 +182,10 @@
   text-decoration: none;
 }
 .desktop1-user {
-  top: 79px;
+  top: 77px;
   left: 925px;
-  width: 35px;
-  height: 35px;
+  width: 40px;
+  height: 40px;
   position: absolute;
 }
 .desktop1-home {
@@ -196,10 +196,10 @@
   position: absolute;
 }
 .desktop1-phone {
-  top: 77px;
+  top: 75px;
   left: 1135px;
-  width: 35px;
-  height: 35px;
+  width: 45px;
+  height: 45px;
   position: absolute;
 }
 .desktop1-logo{
