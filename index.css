@@ -219,9 +219,17 @@
   font-size: 32px;
   font-style: Regular;
   text-align: center;
-  font-family: Inter;
+  font-family: 'Roboto Mono', monospace;
   font-weight: 400;
   line-height: 90px;
   font-stretch: normal;
   text-decoration: none;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: black;
+  color: white;
 }
