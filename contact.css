@@ -18,25 +18,7 @@
     flex-shrink: 0;
     background-color: rgba(255, 255, 255, 1);
   }
-  .desktop1-text {
-    top: 383px;
-    left: 67px;
-    color: rgba(127, 0, 255, 1);
-    width: 606px;
-    height: auto;
-    position: absolute;
-    font-size: 30px;
-    font-style: Bold;
-    text-align: left;
-    font-family: 'Roboto Mono', monospace;
-    font-weight: 700;
-    line-height: 77px;
-    font-stretch: normal;
-    text-decoration: none;
-  }
-  .desktop1-text01 {
-    color: rgba(0, 0, 0, 1);
-  }
+ 
   .desktop1-rectangle6 {
     top: 325.99591064453125px;
     left: 825px;
@@ -263,9 +245,6 @@ input[type=submit]:hover {
 .container {
   border-radius: 10px;
   background-color: rgba(127, 0, 255, 1);
-  padding: 20px;
-}
-
-header{
-  top: 100px;
+  padding: 100px;
+  margin-top: 200px;
 }
